@@ -1,0 +1,4 @@
+Feature,Outliers Before Transformation,Outliers After Transformation
+trestbps,6,1
+chol,5,2
+thalach,1,0

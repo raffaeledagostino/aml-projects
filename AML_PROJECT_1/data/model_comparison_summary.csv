@@ -1,0 +1,5 @@
+Model,Mean AUC,Training Time (s)
+Logistic Regression,0.906 ± 0.003,0.00044 ± 0.00001
+Custom Naive Bayes,0.897 ± 0.004,0.00370 ± 0.00022
+Decision Trees,0.818 ± 0.005,0.00045 ± 0.00000
+SVM,0.903 ± 0.003,0.00278 ± 0.00005
